@@ -1,0 +1,11 @@
+nav ul li{
+    display: inline;
+    margin: 0 20px;
+    font-size: 50px;
+}
+nav ul li a{
+    text-decoration: none;
+}
+a:hover{
+    background-color:aquamarine;
+}
