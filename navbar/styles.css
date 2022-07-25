@@ -1,7 +1,18 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #fff;
+}
+nav{
+    background-color: aliceblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 nav ul li{
     display: inline;
-    margin: 0 20px;
-    font-size: 50px;
+    margin: 20px;   
 }
 nav ul li a{
     text-decoration: none;
